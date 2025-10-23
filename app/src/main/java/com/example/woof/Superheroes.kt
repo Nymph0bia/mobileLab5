@@ -157,6 +157,7 @@ fun HeroInformation(
             text = stringResource(heroName),
             style = MaterialTheme.typography.displaySmall,
         )
+        //Spacer(modifier = Modifier.padding(bottom = 2.dp))
         Text(
             text = stringResource(heroInfo),
             style = MaterialTheme.typography.bodyLarge
