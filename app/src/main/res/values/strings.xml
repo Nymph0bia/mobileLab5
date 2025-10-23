@@ -36,4 +36,18 @@
     <string name="about">About:</string>
     <string name="years_old">%d years old</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>
+    <string name="hero_1">Spider-Man</string>
+    <string name="hero_2">Iron Man</string>
+    <string name="hero_3">Deadpool</string>
+    <string name="hero_4">Batman</string>
+    <string name="hero_5">Black Panther</string>
+    <string name="hero_6">Harley Quinn</string>
+    <string name="hero_description_1">He can make piu piu from his hands</string>
+    <string name="hero_description_2">His biggest power is... money</string>
+    <string name="hero_description_3">I have not watched Deadpool, but someone says that he broke the 4th wall... WOW</string>
+    <string name="hero_description_4">Edward from Twilight hoahoahoa~</string>
+    <string name="hero_description_5">I know only the pink one, he is cool</string>
+    <string name="hero_description_6">She is crazy girl!</string>
+    <string name="app_name_hero">Superheroes</string>
+
 </resources>
