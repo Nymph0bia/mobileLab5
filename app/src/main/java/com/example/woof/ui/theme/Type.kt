@@ -36,6 +36,16 @@ val Cabin = FontFamily(
     Font(R.font.cabin_regular, FontWeight.Normal),
     Font(R.font.cabin_bold, FontWeight.Bold)
 )
+
+val Bitcount = FontFamily(
+    Font(R.font.bitcountgridsingle_light, FontWeight.Normal),
+    Font(R.font.bitcountgridsingle_regular, FontWeight.Bold)
+)
+
+val BBH = FontFamily(
+    Font(R.font.bbhsanshegarty_regular)
+)
+
 /*val Typography = Typography(
     displayLarge = TextStyle(
         fontFamily = AbrilFatface,
@@ -66,9 +76,14 @@ val Typography = Typography(
         lineHeight = 24.sp,
         letterSpacing = 0.5.sp
     ),
-    displayLarge = TextStyle(
+    /*displayLarge = TextStyle(
         fontFamily = Cabin,
         fontWeight = FontWeight.Normal,
+        fontSize = 30.sp
+    ),*/
+    displayLarge = TextStyle(
+        fontFamily = Bitcount,
+        fontWeight = FontWeight.Bold,
         fontSize = 30.sp
     ),
     displayMedium = TextStyle(
@@ -77,8 +92,8 @@ val Typography = Typography(
         fontSize = 20.sp
     ),
     displaySmall = TextStyle(
-        fontFamily = Cabin,
-        fontWeight = FontWeight.Bold,
+        fontFamily = BBH,
+        fontWeight = FontWeight.Normal,
         fontSize = 20.sp
     )
 )

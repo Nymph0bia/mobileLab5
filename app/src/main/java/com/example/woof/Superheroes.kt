@@ -168,7 +168,7 @@ fun HeroInformation(
 @Composable
 fun HeroPreview() {
     WoofTheme(darkTheme = false) {
-        WoofApp()
+        HeroApp()
     }
 }
 
@@ -176,6 +176,6 @@ fun HeroPreview() {
 @Composable
 fun HeroDarkThemePreview() {
     WoofTheme(darkTheme = true) {
-        WoofApp()
+        HeroApp()
     }
 }
